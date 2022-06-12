@@ -1,0 +1,23 @@
+h1.banner{
+	color: yellow;
+	height: 80px;
+	background-color: blue;
+	line-height: 80px;
+	text-align: center;
+	
+}
+p.footer{
+	color: yellow;
+	height: 30px;
+	background-color: blue;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 5px;
+}
+div.gir{
+	border: 1px solid gray; text-align: center;}
+
+.productdetail{
+	min-height: 500px;
+	padding: 20px;
+}
